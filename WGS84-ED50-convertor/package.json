@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "geolib": "^3.3.3"
+  },
+  
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}
